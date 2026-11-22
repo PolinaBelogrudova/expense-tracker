@@ -30,19 +30,13 @@ python src/main.py
 
 СТРУКТУРА ПРОЕКТА:
 expence-tracker
--screenshots/ — скриншоты интерфейса
------analytic.png
------cloud.png
------diagrams.png
------dobavuty.png
------export.png
------glav.png
--src
------main.py — основной код приложения
--README.md
--.gitignore
--expenses.json — локальное хранилище данных
--expenses_export.csv — файл экспорта
+
+- screenshots/analytic.png, cloud.png, diagrams.png, dobavuty.png, export.png, glav.png — скриншоты интерфейса
+- src/main.py — основной код приложения
+- README.md
+- .gitignore
+- expenses.json — локальное хранилище данных
+- expenses_export.csv — файл экспорта
 
 
 
